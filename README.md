@@ -1,6 +1,6 @@
 <h3 align="center">A passionate Full Stack Web developer from India</h3>
 
-- 🔭 I’m currently working on **ART- Ads Research Trigger Tool**
+- 🔭 I’m currently working on **ART- Automated Research Trigger Tool**
 
 - 🌱 I’m currently learning **System Design**
 
